@@ -1,5 +1,5 @@
 {
-  "name": "lyrics app",
+  "name": "lyrics",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -17,7 +17,7 @@
     "react-router-dom": "^6.3.0",
     "swiper": "^8.4.2",
         "vite": "^2.9.9",
-            "@types/react-dom": "^18.0.0",
+        "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0"
 
   },
